@@ -37,10 +37,6 @@ I'm an AI / ML engineer based in Wuhan, China, with 5+ years of experience in al
 
 RAG tooling, retrieval model fine-tuning, multimodal retrieval, anime character search, and agent experiments. These are learning and exploration directions, not claims of completed open-source projects.
 
-## Beyond Engineering
-
-I've followed *ONE PIECE* since 2013 and still keep up with the manga. I'm learning Japanese and interested in how multilingual retrieval and AI creative tools can connect with anime and manga.
-
 ## Contact
 
 [Email](mailto:qinw1914@gmail.com) · [GitHub](https://github.com/ericqin-ai)
